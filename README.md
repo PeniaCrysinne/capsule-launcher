@@ -7,6 +7,14 @@ A sleek, modern, pill-shaped application launcher and 6-slot carousel dock widge
 ![License](https://img.shields.io/badge/License-GPL--3.0-orange)
 
 ---
+--PREVIEW
+<img width="1920" height="1080" alt="capsule launcher" src="https://github.com/user-attachments/assets/2a93f299-ed83-4e23-8e50-7750244c8d00" />
+
+
+
+
+https://github.com/user-attachments/assets/238a058b-261b-4af3-8e2e-e4fd309a6bc0
+
 
 ## ✨ Features
 
