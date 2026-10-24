@@ -1,0 +1,25 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "[EMAIL_ADDRESS]",
+                "Name": "silvermoon667j@gmail.com"
+            }
+        ],
+        "Category": "Application Launchers",
+        "Description": "Modern pill-shaped search bar and 6-app carousel dock for KDE Plasma",
+        "Description[id]": "Widget launcher modern dengan bilah pencarian kapsul dan dok carousel 6 aplikasi",
+        "Icon": "preferences-system-search",
+        "Id": "desktop-app",
+        "License": "GPL-3.0+",
+        "Name": "Capsule Launcher",
+        "Name[id]": "Capsule Launcher",
+        "Version": "1.0.0",
+        "Website": "https://github.com/PeniaCrysinne/capsule-launcher"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "X-Plasma-Provides": [
+        "org.kde.plasma.launchermenu"
+    ]
+}
