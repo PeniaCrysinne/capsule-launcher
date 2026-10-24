@@ -60,7 +60,7 @@ The script will automatically register the plasmoid with `kpackagetool6` and ref
 ## 🖥️ How to Add to Your Desktop
 
 1. **Right-click** on any empty space on your KDE Desktop.
-2. Select **"Add Widgets..."** (or *"Tambah Widget..."*).
+2. Select **"Add Widgets..."**.
 3. In the widget browser, search for **"Capsule Launcher"**.
 4. Drag and drop it onto your desktop!
 
