@@ -49,7 +49,7 @@ Anyone can install this widget with a single command after cloning:
 
 ```bash
 git clone https://github.com/PeniaCrysinne/capsule-launcher.git
-cd capsule launcher
+cd capsule-launcher
 ./install.sh
 ```
 
@@ -71,7 +71,7 @@ The script will automatically register the plasmoid with `kpackagetool6` and ref
 If you ever wish to remove the widget, simply run:
 
 ```bash
-cd capsule launcher
+cd capsule-launcher
 ./uninstall.sh
 ```
 
